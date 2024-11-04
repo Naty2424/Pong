@@ -1,0 +1,18 @@
+1 Hay que aumentar un punto para el jugador "contrario" al lado del campo por el que sale la pelota
+2 Cada jugador debe tener su objeto marcador  ===>> clase Marcador
+3 Inicia en (0,0) ===>> tupla
+4 Al alcanzar el 9 uno de los dos jugadores se termina la partida
+5 De alguna manera, pintarlo en pantalla
+6 La condición de punto la tenemos en el método Pelota.mover()
+7 El marcador debe tener la puntuación de los dos jugadores
+
+
+    2 Crear la clase Marcador
+    7 un atributo / un atributo para cada jugador
+    3 poner el marcador al inicio
+        3.1 al definir los atributos establecer el valor inicial
+        3.2 método que inicialice el marcador
+    5 método que permita pintar el marcador en pantalla
+6 "condición de punto"
+    1 método para incrementar el marcador
+4 identificar la condición de fin de partida (9 puntos de un jugador)
